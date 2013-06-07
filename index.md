@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Lakruzz'
+tagline: A Jekyll served wiki
 ---
 {% include JB/setup %}
+
+Hmmm?
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
